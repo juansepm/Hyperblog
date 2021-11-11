@@ -9,5 +9,6 @@ Un blog base para el[ curso de Git y Github](https://platzi.com/cursos/git-githu
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el Ing Frediier
 
 Y como un amable recordatorio: **Este readme.md es un ejemplo**.  Diseñado para el cruso. Si llegas acá te recomiendo ir [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
