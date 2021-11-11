@@ -10,7 +10,7 @@ Un blog base para el[ curso de Git y Github](https://platzi.com/cursos/git-githu
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el Ing Frediier
-* Incluy ejemplos ne linuz, windows y mac
+* Incluido ejemplos en Sistemas Operativos linux, windows y mac
 * Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un ejemplo**.  Diseñado para el cruso. Si llegas acá te recomiendo ir [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
